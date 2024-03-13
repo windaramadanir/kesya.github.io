@@ -1,21 +1,7 @@
 body {
     min-height: 2000px;
 }
-.jumbotron {
-    padding-top: 2rem;
-    background-color: #93e9be;
-}
-
-#projects {
-    background-color: #93e9be;
-}
-#gallery {
-    background-color: white;
-}
-
-footer {
-    background-color: #93e9be;
-}
-.caca {
-    text-align: center;
+.jumbotrom {
+    padding: 2rem 1rem;
+    background-color: #e2edff;
 }
